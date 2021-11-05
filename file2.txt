@@ -1,4 +1,4 @@
 file2 first
 
 second line
-
+ git cloned file modification
